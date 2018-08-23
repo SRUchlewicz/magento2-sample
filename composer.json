@@ -1,9 +1,6 @@
 {
   "name": "ruchlewicz/magento2-sample",
   "description": "Magento 2 sample module",
-  "require": {
-    "magento/framework": "~100.0.4"
-  },
   "type": "magento2-module",
   "version": "1.0.1",
   "license": [
